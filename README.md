@@ -1,3 +1,5 @@
-# bookclub-nomad-5minute
+# bookclub-nomad
 
 IT dictionary
+
+Just take 5 minutes!
